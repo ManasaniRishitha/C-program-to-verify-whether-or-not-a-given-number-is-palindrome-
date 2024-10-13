@@ -12,8 +12,8 @@ s=s*10+r;
 i=i/10;
 }
 if(s==n)
-printf("\n %d is palindrome number",n);
+       printf("\n %d is palindrome number",n);
 else
-printf("\n %d is not  palindrome number",n);
+       printf("\n %d is not  palindrome number",n);
 }
 
